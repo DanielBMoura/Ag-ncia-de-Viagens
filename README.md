@@ -26,7 +26,7 @@ Este projeto é uma landing page responsiva desenvolvida para uma agência de vi
 Para clonar o repositório, execute o seguinte comando:
 
 ```bash
-https://github.com/DanielBMoura/Agencia-de-viagens.git
+git clone https://github.com/DanielBMoura/Agencia-de-viagens.git
 ```
 
 ## Considerações finais 📝
