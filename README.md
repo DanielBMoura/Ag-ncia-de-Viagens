@@ -4,12 +4,16 @@
 ## Sobre o projeto 🔍
 
 <p align="center">
-Este projeto é uma landing page responsiva desenvolvida para uma agência de viagens fictícia. A página tem como objetivo apresentar os serviços oferecidos.
+Este projeto é uma landing page responsiva desenvolvida para uma agência de viagens fictícia. A página tem como objetivo apresentar os serviços oferecidos. <br>
+📡 O projeto pode ser acessado por este link: <br>
+👉 https://agencia-de-viagens-hazel-seven.vercel.app/
 </p>
 
 ## Funcionalidades ✨
 
 📱 **Design responsivo**: Permite o acesso por todo tipo de dispositivo, oferecendo uma boa experiência em todos os tipos de telas.  
+
+🔗 **Deploy online:** O seu deploy foi feito na vercel e pode ser acessado por qualquer um.
 
 ## Tecnologias Utilizadas 💻
 
@@ -19,7 +23,9 @@ Este projeto é uma landing page responsiva desenvolvida para uma agência de vi
 
 **Javascript**: Aplicado para adicionar interatividade à página, como as animações e funcionalidades dinâmicas.  
 
-**Scrollreveal**: Biblioteca usada para criar animações suaves de entrada.
+**Scrollreveal**: Biblioteca usada para criar animações suaves de entrada.  
+
+**Vercel**: Plataforma utilizada para fazer o deploy e deixar a aplicação online.
 
 ## Como clonar o repositório 📋
 
